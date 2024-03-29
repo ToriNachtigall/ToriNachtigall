@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋I am a beginner in the IT field and have just started my way in programming. I studied to be a programmer in college, which gave me a lot of knowledge that I want to develop further. I am very interested in topics related to neural networks. While I was studying, I mastered knowledge in C# and also wrote several scripts in C++, as well as defended my thesis on MS SQL Server. So please help me with my training.
 <!--
 **ToriNachtigall/ToriNachtigall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
