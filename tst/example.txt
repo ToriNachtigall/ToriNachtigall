@@ -1,0 +1,30 @@
+question, Что такое Python?
+options, Язык программирования, Тип данных, Музыкальный инструмент, Змея на английском
+correct_option, 0
+question, Какой тип данных используется для хранения целых чисел?
+options, int, float, str, natural
+correct_option, 0
+question, Какой тип данных используется для хранения символов?
+options, int, float, str, natural
+correct_option, 2
+question, С какого числа начинается система исчесления в Python?
+options, 0, 2, 1
+correct_option, 0
+question, Команда для ввывода данных в Python?
+options, Write, Read, Print
+correct_option, 2
+question, Как получить абсолютное значение целого числа в Python?
+options, abs, //, %
+correct_option, 0
+question, Как правильно комментировать одну строку в Python?
+options, #, //, <---->
+correct_option, 0
+question, В Python, какова цель оператора (if)?
+options, создание цикла, условие, оператор (или)
+correct_option, 1
+question, Какова цель оператора (break) в Python?
+options, выход из цикла, сломать, Создание оператора,
+correct_option, 0
+question, ('cat' * 3) что произойдёт со строкой после компеляции,
+options, catcatcat, cat3, 3 кота
+correct_option, 0
